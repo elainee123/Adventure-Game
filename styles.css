@@ -1,0 +1,405 @@
+body {
+    background-color: #ffc2bd;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+.a {
+    text-align: center;
+}
+
+.e {
+    list-style-type: none;
+}
+
+.q1 {
+    margin-left: 100px;
+}
+
+.b {
+    font-size: 25px;
+}
+
+.d {
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    background: none;
+    font-family: 'Schoolbell', cursive;
+    outline: none;
+}
+
+.apple-q2 {
+    margin-left: 100px;
+}
+
+.g {
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    background: none;
+    font-family: 'Schoolbell', cursive;
+    outline: none;
+}
+
+.cherry-q2 {
+    margin-left: 100px;
+}
+
+.h {
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    background: none;
+    font-family: 'Schoolbell', cursive;
+    outline: none;
+}
+
+.all-apples {
+    text-align: center;
+}
+
+.red3 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #472e00;
+    outline: none;
+    margin-left: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 10px;
+    border-radius: 100px 0px 0px 0px;
+}
+
+.red2 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #414a00;
+    outline: none;
+    margin-left: 0px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 30px;
+    border-radius: 300px 30px 300px 0px;
+}
+
+.pink3 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #472e00;
+    outline: none;
+    margin-left: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 10px;
+    border-radius: 100px 0px 0px 0px;
+}
+
+.pink2 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #414a00;
+    outline: none;
+    margin-left: 0px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 30px;
+    border-radius: 300px 30px 300px 0px;
+}
+
+.yellow3 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #472e00;
+    outline: none;
+    margin-left: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 10px;
+    border-radius: 100px 0px 0px 0px;
+}
+
+.yellow2 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #414a00;
+    outline: none;
+    margin-left: 0px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 30px;
+    border-radius: 300px 30px 300px 0px;
+}
+
+.blue3 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #472e00;
+    outline: none;
+    margin-left: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 10px;
+    border-radius: 100px 0px 0px 0px;
+}
+
+.blue2 {
+    border: none;
+    margin-top: 100px;
+    background: none;
+    background-color: #414a00;
+    outline: none;
+    margin-left: 0px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-left: 30px;
+    border-radius: 300px 30px 300px 0px;
+}
+
+
+.apple2 {
+    text-align: center;
+}
+
+.pink {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #ffdbd9;
+    text-align: center;
+    padding: 150px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.yellow {
+    border: none;
+    background: none;
+    background-color: #fbff94;
+    text-align: center;
+    padding: 150px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.blue {
+    border: none;
+    background: none;
+    background-color: #4b51a6;
+    text-align: center;
+    padding: 150px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.no-color {
+    border: none;
+    background: none;
+    background-color: #ff7d7d;
+    text-align: center;
+    padding: 150px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+
+
+
+.all-cherry {
+    text-align: center;
+}
+
+.cherry-red {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #ff5c5c;
+    text-align: center;
+    padding: 100px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.cherry-red-leaf {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #005c0f;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10000px 200px 10000px 00px;
+    outline: none;
+}
+
+.cherry-red-stem1 {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #522900;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    margin-left: 100px;
+    border-radius: 160px 10px 0px 00px;
+}
+
+.cherry-pink {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #ffdbd9;
+    text-align: center;
+    padding: 100px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.cherry-pink-leaf {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #005c0f;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10000px 200px 10000px 00px;
+    outline: none;
+}
+
+.cherry-pink-stem1 {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #522900;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    margin-left: 100px;
+    border-radius: 160px 10px 0px 00px;
+}
+
+.cherry-yellow {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #fbff94;
+    text-align: center;
+    padding: 100px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.cherry-yellow-leaf {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #005c0f;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10000px 200px 10000px 00px;
+    outline: none;
+}
+
+.cherry-yellow-stem1 {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #522900;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    margin-left: 100px;
+    border-radius: 160px 10px 0px 00px;
+}
+
+.cherry-blue {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #4b51a6;
+    text-align: center;
+    padding: 100px;
+    padding-left: 150px;
+    border-radius: 200px 200px 300px 300px;
+    outline: none;
+}
+
+.cherry-blue-leaf {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #005c0f;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10000px 200px 10000px 00px;
+    outline: none;
+}
+
+.cherry-blue-stem1 {
+    border: none;
+    background: none;
+    outline: none;
+    background-color: #522900;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    margin-left: 100px;
+    border-radius: 160px 10px 0px 00px;
+}
+
+.back {
+    padding-top: 500px;
+    margin-bottom: 0px;
+}
+
+.back-button {
+    border: none;
+    background: lightgray;
+    outline: none;
+    padding: 20px;
+    margin-left: 100px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: 'Schoolbell', cursive;
+
+}
+
+.yellow-apple-name {
+    font-family: 'Schoolbell', cursive;
+    font-size: 30px;
+}
+
+.name {
+    margin-top: 50px;
+    font-family: 'Schoolbell', cursive;
+}
+
+.fruit-name {
+    border: none;
+    background: lightgray;
+    outline: none;
+    padding: 10px;
+    font-family: 'Schoolbell', cursive;
+}
+
+.done {
+    border: none; 
+    background: none; 
+    outline: none;
+}
